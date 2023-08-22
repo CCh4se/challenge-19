@@ -11,6 +11,7 @@ JATE (Just another text editor) is a web app and text editor. Specifically the e
 
 ## Credit 
 - https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+- https://web.dev/learn/pwa/offline-data/
 - materials provided in class about PWA
 - tutoring sessions  
 
